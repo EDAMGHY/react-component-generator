@@ -51,7 +51,7 @@ com-react <FolderName> <FileName>
 com-react card
 ```
 
-This command will generate a `Card.js` File inside the `src/` folder of the react project.
+This command will generate a `Card.js` File and Open It. inside the `src/` folder of the react project.
 
 ---
 
@@ -66,3 +66,8 @@ com-react components/cards card
 ```
 
 ---
+
+## Note
+
+When the File generates it will be automatically opened in the vscode IDE.
+Other IDE or Text Editors not supported yet.
