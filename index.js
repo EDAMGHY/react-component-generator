@@ -6,7 +6,7 @@ const createFileFolder = require('./utils');
 const { createSpinner } = require('nanospinner');
 
 const log = console.log;
-program.version('1.0.0').description('A React Component Generator').parse();
+program.version('1.1.2').description('A React Component Generator').parse();
 
 if (program.args.length === 0) {
   setTimeout(() => {
