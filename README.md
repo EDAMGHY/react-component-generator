@@ -2,6 +2,8 @@
 
 com-react is a React-Component-Generator that generates a file with An Arrow Function Component for React
 
+(on NPM: [com-react](https://www.npmjs.com/package/com-react))
+
 ## Quick Installation:
 
 ### NPM
@@ -10,4 +12,8 @@ com-react is a React-Component-Generator that generates a file with An Arrow Fun
 npm install -g com-react
 ```
 
-[com-react](https://www.npmjs.com/package/com-react)
+or
+
+```
+npx install  com-react
+```
