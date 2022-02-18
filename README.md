@@ -59,7 +59,7 @@ This command will generate a `Card.js` File inside the `src/` folder of the reac
 com-react components card
 ```
 
-This command creates a file named `Card.js` inside the `components/` folder all of this will be inside the `src/` folder. It also provide a nested folders like
+This command creates a file named `Card.js` inside the `components/` folder all of this will be inside the `src/` folder. It also supports nested folders like
 
 ```
 com-react components/cards card
