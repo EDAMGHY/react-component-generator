@@ -18,8 +18,6 @@ npm install -g com-react
 npx install  com-react
 ```
 
-## How to Use
-
 Once You have installed **com-react** you can use it from anywhere in your PC.
 Run the following command to make sure that you have the latest version
 
@@ -32,6 +30,8 @@ com-react --version
 ```
 com-react -V
 ```
+
+## How to Use
 
 You can run **com-react** from the root of your application using
 
@@ -48,7 +48,7 @@ com-react <FolderName> <FileName>
 ## Examples
 
 ```
-com-react  card
+com-react card
 ```
 
 This command will generate a `Card.js` File inside the `src/` folder of the react project.
