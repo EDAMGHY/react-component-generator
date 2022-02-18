@@ -1,0 +1,17 @@
+{
+  "name": "com-react",
+  "version": "1.0.0",
+  "description": "This is a React Component Generator",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "ABDELLAH DAMRI",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^9.0.0",
+    "nanospinner": "^1.0.0"
+  }
+}
