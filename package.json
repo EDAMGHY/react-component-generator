@@ -7,6 +7,25 @@
   "scripts": {
     "start": "node index"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EDAMGHY/react-component-generator.git"
+  },
+  "homepage": "https://github.com/EDAMGHY/react-component-generator",
+  "keywords": [
+    "react",
+    "reactjs",
+    "component",
+    "component-gen",
+    "component-generator",
+    "generator",
+    "cli",
+    "commmand-line",
+    "gen"
+  ],
+  "bugs": {
+    "url": "https://github.com/EDAMGHY/react-component-generator/issues"
+  },
   "author": "ABDELLAH DAMRI",
   "license": "MIT",
   "dependencies": {
