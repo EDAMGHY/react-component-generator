@@ -69,5 +69,5 @@ com-react components/cards card
 
 ## Note
 
-When the File generates it will be automatically opened in the vscode IDE.
+When the File generates it will be automatically opened in the vscode IDE. <br/>
 Other IDE or Text Editors not supported yet.
