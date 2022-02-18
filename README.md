@@ -6,16 +6,16 @@ com-react is a React-Component-Generator that generates a file with An Arrow Fun
 
 ## Quick Installation:
 
-### NPM
+### NPM (Globally)
 
 ```
 npm install -g com-react
 ```
 
-#### or
+#### or (Locally)
 
 ```
-npx install  com-react
+npx com-react
 ```
 
 Once You have installed **com-react** you can use it from anywhere in your PC.
