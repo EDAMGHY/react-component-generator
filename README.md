@@ -42,7 +42,7 @@ com-react <FileName>
 #### or
 
 ```
-com-react <FolderName> <FileName>
+com-react <FolderName>/<FoldersName> <FileName>
 ```
 
 ## Examples
